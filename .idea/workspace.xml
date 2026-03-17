@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74cb9048-1a0c-4126-8447-6319ec34b904" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_Questions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMap/CountCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HashMap/FirstNonRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/First_Non_repeater_Character_Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/RemoveSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Reverse_Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Reverse_Word_Better_Approach.java" afterDir="false" />
+    <list default="true" id="74cb9048-1a0c-4126-8447-6319ec34b904" name="Changes" comment="today's Dsa Problem">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/FindDuplicateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/FindDuplicateHasSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/FindMaxElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,16 +38,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FirstNonRepeatingCharacter">
+  <component name="RunManager" selected="Application.FindDuplicateHasSet">
     <configuration name="CountCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMap.CountCharacter" />
       <module name="DSA_Questions" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDuplicateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.FindDuplicateArray" />
+      <module name="DSA_Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDuplicateHasSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.FindDuplicateHasSet" />
+      <module name="DSA_Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindMaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.FindMaxElement" />
+      <module name="DSA_Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,52 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveSpace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.RemoveSpace" />
-      <module name="DSA_Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.ReverseString" />
-      <module name="DSA_Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reverse_Word_Better_Approach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.Reverse_Word_Better_Approach" />
-      <module name="DSA_Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDuplicateHasSet" />
+        <item itemvalue="Application.FindDuplicateArray" />
+        <item itemvalue="Application.FindMaxElement" />
         <item itemvalue="Application.FirstNonRepeatingCharacter" />
         <item itemvalue="Application.CountCharacter" />
-        <item itemvalue="Application.RemoveSpace" />
-        <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.Reverse_Word_Better_Approach" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +127,18 @@
       <option name="presentableId" value="Default" />
       <updated>1773729540606</updated>
     </task>
+    <task id="LOCAL-00001" summary="today's Dsa Problem">
+      <created>1773741065731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773741065731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="today's Dsa Problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="today's Dsa Problem" />
   </component>
 </project>
